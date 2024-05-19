@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lost &amp; Founds</string>
+
+
+    <string-array name="status">
+        <item>lost</item>
+        <item>found</item>
+    </string-array>
+
+    <string name="change_profile_image">Change Profile Image</string>
+
+</resources>
